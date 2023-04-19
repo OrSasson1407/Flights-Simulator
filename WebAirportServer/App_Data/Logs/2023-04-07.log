@@ -1,0 +1,55 @@
+[2023-04-07 13:58:05.9390]|User|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7254 
+[2023-04-07 13:58:05.9707]|User|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5009 
+[2023-04-07 13:58:05.9739]|User|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+[2023-04-07 13:58:05.9739]|User|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+[2023-04-07 13:58:05.9739]|User|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\קורס סלע\FinalProject\WebAirportServer\WebAirportServer\WebAirportServer 
+[2023-04-07 13:58:47.6357]|User|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7254 
+[2023-04-07 13:58:47.6653]|User|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5009 
+[2023-04-07 13:58:47.6653]|User|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+[2023-04-07 13:58:47.6653]|User|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+[2023-04-07 13:58:47.6653]|User|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\קורס סלע\FinalProject\WebAirportServer\WebAirportServer\WebAirportServer 
+[2023-04-07 13:59:41.3264]|User|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7254 
+[2023-04-07 13:59:41.3739]|User|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5009 
+[2023-04-07 13:59:41.3739]|User|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+[2023-04-07 13:59:41.3797]|User|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+[2023-04-07 13:59:41.3797]|User|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\קורס סלע\FinalProject\WebAirportServer\WebAirportServer\WebAirportServer 
+[2023-04-07 14:00:20.6521]|User|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7254 
+[2023-04-07 14:00:20.7095]|User|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5009 
+[2023-04-07 14:00:20.7095]|User|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+[2023-04-07 14:00:20.7095]|User|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+[2023-04-07 14:00:20.7095]|User|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\קורס סלע\FinalProject\WebAirportServer\WebAirportServer\WebAirportServer 
+[2023-04-07 14:00:49.1178]|User|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7254 
+[2023-04-07 14:00:49.1597]|User|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5009 
+[2023-04-07 14:00:49.1597]|User|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+[2023-04-07 14:00:49.1597]|User|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+[2023-04-07 14:00:49.1597]|User|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\קורס סלע\FinalProject\WebAirportServer\WebAirportServer\WebAirportServer 
+[2023-04-07 14:01:04.3518]|User|INFO|WebAirportServer.Models.Flight|Flight number 2ded8ed3-773d-41e1-beb4-af3d888a56e3 is created 
+[2023-04-07 14:01:14.2519]|User|INFO|WebAirportServer.Models.Flight|Flight number e717f0ef-b2ab-4ce3-bdda-af69d47ca1f9 is created 
+[2023-04-07 14:01:24.2563]|User|INFO|WebAirportServer.Models.Flight|Flight number b691e161-c098-4a0e-b64d-60c858f9fea1 is created 
+[2023-04-07 14:01:34.2424]|User|INFO|WebAirportServer.Models.Flight|Flight number a96aa8d0-3327-4be9-b8d8-c6afd2277ef8 is created 
+[2023-04-07 14:01:44.2350]|User|INFO|WebAirportServer.Models.Flight|Flight number 27628ee1-0175-4c18-b742-8d75ec2d6ae2 is created 
+[2023-04-07 14:01:48.4844]|User|INFO|WebAirportServer.Repositories.FlightRepo|2ded8ed3-773d-41e1-beb4-af3d888a56e3: Departure from 4 
+[2023-04-07 14:01:54.2154]|User|INFO|WebAirportServer.Models.Flight|Flight number 5b269302-cfac-4f6e-bd2d-4ffb52c7b6e2 is created 
+[2023-04-07 14:01:57.7009]|User|INFO|WebAirportServer.Repositories.FlightRepo|e717f0ef-b2ab-4ce3-bdda-af69d47ca1f9: Departure from 4 
+[2023-04-07 14:02:04.2170]|User|INFO|WebAirportServer.Models.Flight|Flight number 307ce31c-b56e-462c-864f-55d00a48f1b9 is created 
+[2023-04-07 14:02:07.6549]|User|INFO|WebAirportServer.Repositories.FlightRepo|b691e161-c098-4a0e-b64d-60c858f9fea1: Departure from 4 
+[2023-04-07 14:02:14.2163]|User|INFO|WebAirportServer.Models.Flight|Flight number 3b149015-ccf8-4a04-8df5-efac41044ca4 is created 
+[2023-04-07 14:02:17.7021]|User|INFO|WebAirportServer.Repositories.FlightRepo|a96aa8d0-3327-4be9-b8d8-c6afd2277ef8: Departure from 4 
+[2023-04-07 14:02:24.2246]|User|INFO|WebAirportServer.Models.Flight|Flight number c8eb5b3a-7b72-49a4-868d-e315d1c913ee is created 
+[2023-04-07 14:02:27.6443]|User|INFO|WebAirportServer.Repositories.FlightRepo|27628ee1-0175-4c18-b742-8d75ec2d6ae2: Departure from 4 
+[2023-04-07 14:26:10.6488]|User|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7254 
+[2023-04-07 14:26:10.7065]|User|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5009 
+[2023-04-07 14:26:10.7340]|User|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+[2023-04-07 14:26:10.7404]|User|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+[2023-04-07 14:26:10.7404]|User|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\קורס סלע\FinalProject\WebAirportServer\WebAirportServer\WebAirportServer 
+[2023-04-07 14:26:25.3029]|User|INFO|WebAirportServer.Models.Flight|Flight number 7c611b35-9006-4af6-b96e-1c861d219df3 is created 
+[2023-04-07 14:26:25.8708]|User|INFO|WebAirportServer.Repositories.FlightRepo|7c611b35-9006-4af6-b96e-1c861d219df3: 1 (07/04/2023 14:26:25) 
+[2023-04-07 14:26:29.0714]|User|INFO|WebAirportServer.Repositories.FlightRepo|7c611b35-9006-4af6-b96e-1c861d219df3: 2 (07/04/2023 14:26:29) 
+[2023-04-07 14:26:34.1355]|User|INFO|WebAirportServer.Repositories.FlightRepo|7c611b35-9006-4af6-b96e-1c861d219df3: 3 (07/04/2023 14:26:34) 
+[2023-04-07 14:26:35.2707]|User|INFO|WebAirportServer.Models.Flight|Flight number 59de2511-232f-4a42-bb84-2bb20ec1a784 is created 
+[2023-04-07 14:26:35.2707]|User|INFO|WebAirportServer.Repositories.FlightRepo|59de2511-232f-4a42-bb84-2bb20ec1a784: 1 (07/04/2023 14:26:35) 
+[2023-04-07 14:26:38.3228]|User|INFO|WebAirportServer.Repositories.FlightRepo|59de2511-232f-4a42-bb84-2bb20ec1a784: 2 (07/04/2023 14:26:38) 
+[2023-04-07 14:26:40.2165]|User|INFO|WebAirportServer.Repositories.FlightRepo|7c611b35-9006-4af6-b96e-1c861d219df3: 4 (07/04/2023 14:26:40) 
+[2023-04-07 14:26:43.3997]|User|INFO|WebAirportServer.Repositories.FlightRepo|59de2511-232f-4a42-bb84-2bb20ec1a784: 3 (07/04/2023 14:26:43) 
+[2023-04-07 14:26:45.2400]|User|INFO|WebAirportServer.Models.Flight|Flight number e49d4419-41d5-4422-9d5c-62d46febbc36 is created 
+[2023-04-07 14:26:45.2400]|User|INFO|WebAirportServer.Repositories.FlightRepo|e49d4419-41d5-4422-9d5c-62d46febbc36: 1 (07/04/2023 14:26:45) 

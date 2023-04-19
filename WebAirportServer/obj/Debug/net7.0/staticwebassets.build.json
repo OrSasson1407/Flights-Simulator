@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RS6PLnNUhQVlZ4WKZXILemjMzqtlwBgsLqLNO8mAEh0=",
+  "Source": "WebAirportServer",
+  "BasePath": "_content/WebAirportServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

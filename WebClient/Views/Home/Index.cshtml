@@ -1,0 +1,43 @@
+﻿@model IEnumerable<WebClient.Models.LegDto>
+
+    <center>
+    <table class="table table-dark table-striped">
+    <thead>
+        <tr>
+            <th>Flight Code</th>
+            <th>Number</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var leg in Model)
+        {
+          <tr>
+           <td>
+        @{
+            bool found = false;
+            foreach(var f in ViewBag.Flights)
+            {
+                if(f.Id == leg.FlightId)
+                {
+                    <div class="divCode">@(f.Code ?? "None")</div>
+                    found = true;
+                }
+            }
+            if(!found)
+            {
+               <div class="divCode">None</div>
+            }
+        }
+    </td>
+                <td>@leg.Number</td>
+          </tr>
+        }
+    </tbody>
+</table>
+</center>
+<script>
+    setTimeout(function() {
+        location.reload();
+    }, 1000);
+</script>
+

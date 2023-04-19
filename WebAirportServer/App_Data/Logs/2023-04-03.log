@@ -1,0 +1,18 @@
+[2023-04-03 14:29:39.4737]|User|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7254 
+[2023-04-03 14:29:39.4891]|User|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5009 
+[2023-04-03 14:29:39.4891]|User|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+[2023-04-03 14:29:39.4891]|User|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+[2023-04-03 14:29:39.4891]|User|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\קורס סלע\FinalProject\WebAirportServer\WebAirportServer\WebAirportServer 
+[2023-04-03 14:29:46.0908]|User|INFO|WebAirportServer.Models.Flight|Flight number string is created 
+[2023-04-03 14:33:33.9406]|User|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7254 
+[2023-04-03 14:33:33.9558]|User|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5009 
+[2023-04-03 14:33:33.9558]|User|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+[2023-04-03 14:33:33.9558]|User|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+[2023-04-03 14:33:33.9558]|User|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\קורס סלע\FinalProject\WebAirportServer\WebAirportServer\WebAirportServer 
+[2023-04-03 14:36:07.0332]|User|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7254 
+[2023-04-03 14:36:07.0497]|User|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5009 
+[2023-04-03 14:36:07.0497]|User|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+[2023-04-03 14:36:07.0497]|User|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+[2023-04-03 14:36:07.0497]|User|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\קורס סלע\FinalProject\WebAirportServer\WebAirportServer\WebAirportServer 
+[2023-04-03 14:36:20.8741]|User|INFO|WebAirportServer.Models.Flight|Flight number 2c73c402-8286-42a8-a710-ed9a452c577c is created 
+[2023-04-03 14:36:30.8407]|User|INFO|WebAirportServer.Models.Flight|Flight number 73b1db4b-83b4-42df-9ecc-e7a2f909dd54 is created 

@@ -1,0 +1,175 @@
+[2023-04-10 17:16:11.4534]|User|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7254 
+[2023-04-10 17:16:11.4702]|User|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5009 
+[2023-04-10 17:16:11.4702]|User|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+[2023-04-10 17:16:11.4702]|User|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+[2023-04-10 17:16:11.4702]|User|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\קורס סלע\FinalProject\WebAirportServer\WebAirportServer\WebAirportServer 
+[2023-04-10 17:16:20.0391]|User|INFO|WebAirportServer.Models.Flight|Flight number 17e20c33-add2-4ec4-8e76-7e4e0cb66e54 is created 
+[2023-04-10 17:16:20.2937]|User|INFO|WebAirportServer.Repositories.FlightRepo|17e20c33-add2-4ec4-8e76-7e4e0cb66e54: 1 (10/04/2023 17:16:20) 
+[2023-04-10 17:16:23.4018]|User|INFO|WebAirportServer.Repositories.FlightRepo|17e20c33-add2-4ec4-8e76-7e4e0cb66e54: 2 (10/04/2023 17:16:23) 
+[2023-04-10 17:16:28.4284]|User|INFO|WebAirportServer.Repositories.FlightRepo|17e20c33-add2-4ec4-8e76-7e4e0cb66e54: 3 (10/04/2023 17:16:28) 
+[2023-04-10 17:16:29.4599]|User|INFO|WebAirportServer.Models.Flight|Flight number 4f9ab7fa-b895-4c5a-9a2d-10bb5ba9160b is created 
+[2023-04-10 17:16:29.4637]|User|INFO|WebAirportServer.Repositories.FlightRepo|4f9ab7fa-b895-4c5a-9a2d-10bb5ba9160b: 1 (10/04/2023 17:16:29) 
+[2023-04-10 17:16:32.4811]|User|INFO|WebAirportServer.Repositories.FlightRepo|4f9ab7fa-b895-4c5a-9a2d-10bb5ba9160b: 2 (10/04/2023 17:16:32) 
+[2023-04-10 17:16:34.4450]|User|INFO|WebAirportServer.Repositories.FlightRepo|17e20c33-add2-4ec4-8e76-7e4e0cb66e54: 4 (10/04/2023 17:16:34) 
+[2023-04-10 17:16:37.4980]|User|INFO|WebAirportServer.Repositories.FlightRepo|4f9ab7fa-b895-4c5a-9a2d-10bb5ba9160b: 3 (10/04/2023 17:16:37) 
+[2023-04-10 17:16:39.4405]|User|INFO|WebAirportServer.Models.Flight|Flight number 5c6e2f8a-e522-49bb-9b57-fbc983b1ba9f is created 
+[2023-04-10 17:16:39.4405]|User|INFO|WebAirportServer.Repositories.FlightRepo|5c6e2f8a-e522-49bb-9b57-fbc983b1ba9f: 1 (10/04/2023 17:16:39) 
+[2023-04-10 17:16:42.4635]|User|INFO|WebAirportServer.Repositories.FlightRepo|17e20c33-add2-4ec4-8e76-7e4e0cb66e54: 5 (10/04/2023 17:16:42) 
+[2023-04-10 17:16:42.4635]|User|INFO|WebAirportServer.Repositories.FlightRepo|5c6e2f8a-e522-49bb-9b57-fbc983b1ba9f: 2 (10/04/2023 17:16:42) 
+[2023-04-10 17:16:43.5141]|User|INFO|WebAirportServer.Repositories.FlightRepo|4f9ab7fa-b895-4c5a-9a2d-10bb5ba9160b: 4 (10/04/2023 17:16:43) 
+[2023-04-10 17:16:46.4824]|User|INFO|WebAirportServer.Repositories.FlightRepo|17e20c33-add2-4ec4-8e76-7e4e0cb66e54: 6 (10/04/2023 17:16:46) 
+[2023-04-10 17:16:47.4758]|User|INFO|WebAirportServer.Repositories.FlightRepo|5c6e2f8a-e522-49bb-9b57-fbc983b1ba9f: 3 (10/04/2023 17:16:47) 
+[2023-04-10 17:16:49.4458]|User|INFO|WebAirportServer.Models.Flight|Flight number 833bf9ee-cc63-4f31-b819-8414291a9143 is created 
+[2023-04-10 17:16:49.4498]|User|INFO|WebAirportServer.Repositories.FlightRepo|833bf9ee-cc63-4f31-b819-8414291a9143: 1 (10/04/2023 17:16:49) 
+[2023-04-10 17:16:51.5288]|User|INFO|WebAirportServer.Repositories.FlightRepo|4f9ab7fa-b895-4c5a-9a2d-10bb5ba9160b: 5 (10/04/2023 17:16:51) 
+[2023-04-10 17:16:52.4721]|User|INFO|WebAirportServer.Repositories.FlightRepo|833bf9ee-cc63-4f31-b819-8414291a9143: 2 (10/04/2023 17:16:52) 
+[2023-04-10 17:16:53.4906]|User|INFO|WebAirportServer.Repositories.FlightRepo|5c6e2f8a-e522-49bb-9b57-fbc983b1ba9f: 4 (10/04/2023 17:16:53) 
+[2023-04-10 17:16:53.4906]|User|INFO|WebAirportServer.Repositories.FlightRepo|17e20c33-add2-4ec4-8e76-7e4e0cb66e54: 8 (10/04/2023 17:16:53) 
+[2023-04-10 17:16:55.5093]|User|INFO|WebAirportServer.Repositories.FlightRepo|17e20c33-add2-4ec4-8e76-7e4e0cb66e54: 4 (10/04/2023 17:16:55) 
+[2023-04-10 17:16:55.5400]|User|INFO|WebAirportServer.Repositories.FlightRepo|4f9ab7fa-b895-4c5a-9a2d-10bb5ba9160b: 6 (10/04/2023 17:16:55) 
+[2023-04-10 17:16:57.4801]|User|INFO|WebAirportServer.Repositories.FlightRepo|833bf9ee-cc63-4f31-b819-8414291a9143: 3 (10/04/2023 17:16:57) 
+[2023-04-10 17:16:59.4392]|User|INFO|WebAirportServer.Models.Flight|Flight number 6a6d5751-a82b-4af2-b193-9a26c56de8c6 is created 
+[2023-04-10 17:16:59.4392]|User|INFO|WebAirportServer.Repositories.FlightRepo|6a6d5751-a82b-4af2-b193-9a26c56de8c6: 1 (10/04/2023 17:16:59) 
+[2023-04-10 17:17:01.5090]|User|INFO|WebAirportServer.Repositories.FlightRepo|5c6e2f8a-e522-49bb-9b57-fbc983b1ba9f: 5 (10/04/2023 17:17:01) 
+[2023-04-10 17:17:02.4485]|User|INFO|WebAirportServer.Repositories.FlightRepo|6a6d5751-a82b-4af2-b193-9a26c56de8c6: 2 (10/04/2023 17:17:02) 
+[2023-04-10 17:17:02.5580]|User|INFO|WebAirportServer.Repositories.FlightRepo|4f9ab7fa-b895-4c5a-9a2d-10bb5ba9160b: 8 (10/04/2023 17:17:02) 
+[2023-04-10 17:17:03.4993]|User|INFO|WebAirportServer.Repositories.FlightRepo|833bf9ee-cc63-4f31-b819-8414291a9143: 4 (10/04/2023 17:17:03) 
+[2023-04-10 17:17:03.5274]|User|INFO|WebAirportServer.Repositories.FlightRepo|17e20c33-add2-4ec4-8e76-7e4e0cb66e54: Departure from 4 
+[2023-04-10 17:17:04.5767]|User|INFO|WebAirportServer.Repositories.FlightRepo|4f9ab7fa-b895-4c5a-9a2d-10bb5ba9160b: 4 (10/04/2023 17:17:04) 
+[2023-04-10 17:17:05.5201]|User|INFO|WebAirportServer.Repositories.FlightRepo|5c6e2f8a-e522-49bb-9b57-fbc983b1ba9f: 6 (10/04/2023 17:17:05) 
+[2023-04-10 17:17:07.4765]|User|INFO|WebAirportServer.Repositories.FlightRepo|6a6d5751-a82b-4af2-b193-9a26c56de8c6: 3 (10/04/2023 17:17:07) 
+[2023-04-10 17:17:09.4459]|User|INFO|WebAirportServer.Models.Flight|Flight number 83a0ad4e-f353-48e1-90fc-246bbdd14c25 is created 
+[2023-04-10 17:17:09.4516]|User|INFO|WebAirportServer.Repositories.FlightRepo|83a0ad4e-f353-48e1-90fc-246bbdd14c25: 1 (10/04/2023 17:17:09) 
+[2023-04-10 17:17:11.5296]|User|INFO|WebAirportServer.Repositories.FlightRepo|833bf9ee-cc63-4f31-b819-8414291a9143: 5 (10/04/2023 17:17:11) 
+[2023-04-10 17:17:12.4677]|User|INFO|WebAirportServer.Repositories.FlightRepo|83a0ad4e-f353-48e1-90fc-246bbdd14c25: 2 (10/04/2023 17:17:12) 
+[2023-04-10 17:17:12.5444]|User|INFO|WebAirportServer.Repositories.FlightRepo|5c6e2f8a-e522-49bb-9b57-fbc983b1ba9f: 8 (10/04/2023 17:17:12) 
+[2023-04-10 17:17:12.5994]|User|INFO|WebAirportServer.Repositories.FlightRepo|4f9ab7fa-b895-4c5a-9a2d-10bb5ba9160b: Departure from 4 
+[2023-04-10 17:17:13.5042]|User|INFO|WebAirportServer.Repositories.FlightRepo|6a6d5751-a82b-4af2-b193-9a26c56de8c6: 4 (10/04/2023 17:17:13) 
+[2023-04-10 17:17:14.5713]|User|INFO|WebAirportServer.Repositories.FlightRepo|5c6e2f8a-e522-49bb-9b57-fbc983b1ba9f: 4 (10/04/2023 17:17:14) 
+[2023-04-10 17:17:15.5555]|User|INFO|WebAirportServer.Repositories.FlightRepo|833bf9ee-cc63-4f31-b819-8414291a9143: 6 (10/04/2023 17:17:15) 
+[2023-04-10 17:17:17.4987]|User|INFO|WebAirportServer.Repositories.FlightRepo|83a0ad4e-f353-48e1-90fc-246bbdd14c25: 3 (10/04/2023 17:17:17) 
+[2023-04-10 17:17:19.4391]|User|INFO|WebAirportServer.Models.Flight|Flight number 091d1959-81ff-4e3a-a1be-49dc903fe8ee is created 
+[2023-04-10 17:17:19.4391]|User|INFO|WebAirportServer.Repositories.FlightRepo|091d1959-81ff-4e3a-a1be-49dc903fe8ee: 1 (10/04/2023 17:17:19) 
+[2023-04-10 17:17:21.5329]|User|INFO|WebAirportServer.Repositories.FlightRepo|6a6d5751-a82b-4af2-b193-9a26c56de8c6: 5 (10/04/2023 17:17:21) 
+[2023-04-10 17:17:22.4568]|User|INFO|WebAirportServer.Repositories.FlightRepo|091d1959-81ff-4e3a-a1be-49dc903fe8ee: 2 (10/04/2023 17:17:22) 
+[2023-04-10 17:17:22.5882]|User|INFO|WebAirportServer.Repositories.FlightRepo|833bf9ee-cc63-4f31-b819-8414291a9143: 8 (10/04/2023 17:17:22) 
+[2023-04-10 17:17:22.5959]|User|INFO|WebAirportServer.Repositories.FlightRepo|5c6e2f8a-e522-49bb-9b57-fbc983b1ba9f: Departure from 4 
+[2023-04-10 17:17:23.5231]|User|INFO|WebAirportServer.Repositories.FlightRepo|83a0ad4e-f353-48e1-90fc-246bbdd14c25: 4 (10/04/2023 17:17:23) 
+[2023-04-10 17:17:24.5999]|User|INFO|WebAirportServer.Repositories.FlightRepo|833bf9ee-cc63-4f31-b819-8414291a9143: 4 (10/04/2023 17:17:24) 
+[2023-04-10 17:17:25.5489]|User|INFO|WebAirportServer.Repositories.FlightRepo|6a6d5751-a82b-4af2-b193-9a26c56de8c6: 6 (10/04/2023 17:17:25) 
+[2023-04-10 17:17:27.4768]|User|INFO|WebAirportServer.Repositories.FlightRepo|091d1959-81ff-4e3a-a1be-49dc903fe8ee: 3 (10/04/2023 17:17:27) 
+[2023-04-10 17:17:29.4358]|User|INFO|WebAirportServer.Models.Flight|Flight number b7c5704a-9abb-4d88-878a-807ff95afe06 is created 
+[2023-04-10 17:17:29.4358]|User|INFO|WebAirportServer.Repositories.FlightRepo|b7c5704a-9abb-4d88-878a-807ff95afe06: 1 (10/04/2023 17:17:29) 
+[2023-04-10 17:17:31.5387]|User|INFO|WebAirportServer.Repositories.FlightRepo|83a0ad4e-f353-48e1-90fc-246bbdd14c25: 5 (10/04/2023 17:17:31) 
+[2023-04-10 17:17:32.4667]|User|INFO|WebAirportServer.Repositories.FlightRepo|b7c5704a-9abb-4d88-878a-807ff95afe06: 2 (10/04/2023 17:17:32) 
+[2023-04-10 17:17:32.5674]|User|INFO|WebAirportServer.Repositories.FlightRepo|6a6d5751-a82b-4af2-b193-9a26c56de8c6: 8 (10/04/2023 17:17:32) 
+[2023-04-10 17:17:32.6185]|User|INFO|WebAirportServer.Repositories.FlightRepo|833bf9ee-cc63-4f31-b819-8414291a9143: Departure from 4 
+[2023-04-10 17:17:33.4959]|User|INFO|WebAirportServer.Repositories.FlightRepo|091d1959-81ff-4e3a-a1be-49dc903fe8ee: 4 (10/04/2023 17:17:33) 
+[2023-04-10 17:17:34.5809]|User|INFO|WebAirportServer.Repositories.FlightRepo|6a6d5751-a82b-4af2-b193-9a26c56de8c6: 4 (10/04/2023 17:17:34) 
+[2023-04-10 17:17:35.5604]|User|INFO|WebAirportServer.Repositories.FlightRepo|83a0ad4e-f353-48e1-90fc-246bbdd14c25: 6 (10/04/2023 17:17:35) 
+[2023-04-10 17:17:37.4884]|User|INFO|WebAirportServer.Repositories.FlightRepo|b7c5704a-9abb-4d88-878a-807ff95afe06: 3 (10/04/2023 17:17:37) 
+[2023-04-10 17:17:39.4348]|User|INFO|WebAirportServer.Models.Flight|Flight number a37a238f-25d9-493b-87fb-c8875f9a3bba is created 
+[2023-04-10 17:17:39.4348]|User|INFO|WebAirportServer.Repositories.FlightRepo|a37a238f-25d9-493b-87fb-c8875f9a3bba: 1 (10/04/2023 17:17:39) 
+[2023-04-10 17:17:41.5290]|User|INFO|WebAirportServer.Repositories.FlightRepo|091d1959-81ff-4e3a-a1be-49dc903fe8ee: 5 (10/04/2023 17:17:41) 
+[2023-04-10 17:17:42.4565]|User|INFO|WebAirportServer.Repositories.FlightRepo|a37a238f-25d9-493b-87fb-c8875f9a3bba: 2 (10/04/2023 17:17:42) 
+[2023-04-10 17:17:42.5781]|User|INFO|WebAirportServer.Repositories.FlightRepo|83a0ad4e-f353-48e1-90fc-246bbdd14c25: 8 (10/04/2023 17:17:42) 
+[2023-04-10 17:17:42.5919]|User|INFO|WebAirportServer.Repositories.FlightRepo|6a6d5751-a82b-4af2-b193-9a26c56de8c6: Departure from 4 
+[2023-04-10 17:17:43.5040]|User|INFO|WebAirportServer.Repositories.FlightRepo|b7c5704a-9abb-4d88-878a-807ff95afe06: 4 (10/04/2023 17:17:43) 
+[2023-04-10 17:17:44.5907]|User|INFO|WebAirportServer.Repositories.FlightRepo|83a0ad4e-f353-48e1-90fc-246bbdd14c25: 4 (10/04/2023 17:17:44) 
+[2023-04-10 17:17:45.5510]|User|INFO|WebAirportServer.Repositories.FlightRepo|091d1959-81ff-4e3a-a1be-49dc903fe8ee: 6 (10/04/2023 17:17:45) 
+[2023-04-10 17:17:47.4674]|User|INFO|WebAirportServer.Repositories.FlightRepo|a37a238f-25d9-493b-87fb-c8875f9a3bba: 3 (10/04/2023 17:17:47) 
+[2023-04-10 17:17:49.4376]|User|INFO|WebAirportServer.Models.Flight|Flight number eb56bdef-9ff8-4aa4-a1eb-0468b4f8971e is created 
+[2023-04-10 17:17:49.4376]|User|INFO|WebAirportServer.Repositories.FlightRepo|eb56bdef-9ff8-4aa4-a1eb-0468b4f8971e: 1 (10/04/2023 17:17:49) 
+[2023-04-10 17:17:51.5220]|User|INFO|WebAirportServer.Repositories.FlightRepo|b7c5704a-9abb-4d88-878a-807ff95afe06: 5 (10/04/2023 17:17:51) 
+[2023-04-10 17:17:52.4544]|User|INFO|WebAirportServer.Repositories.FlightRepo|eb56bdef-9ff8-4aa4-a1eb-0468b4f8971e: 2 (10/04/2023 17:17:52) 
+[2023-04-10 17:17:52.5663]|User|INFO|WebAirportServer.Repositories.FlightRepo|091d1959-81ff-4e3a-a1be-49dc903fe8ee: 8 (10/04/2023 17:17:52) 
+[2023-04-10 17:17:52.6098]|User|INFO|WebAirportServer.Repositories.FlightRepo|83a0ad4e-f353-48e1-90fc-246bbdd14c25: Departure from 4 
+[2023-04-10 17:17:53.4863]|User|INFO|WebAirportServer.Repositories.FlightRepo|a37a238f-25d9-493b-87fb-c8875f9a3bba: 4 (10/04/2023 17:17:53) 
+[2023-04-10 17:17:54.5861]|User|INFO|WebAirportServer.Repositories.FlightRepo|091d1959-81ff-4e3a-a1be-49dc903fe8ee: 4 (10/04/2023 17:17:54) 
+[2023-04-10 17:17:55.5449]|User|INFO|WebAirportServer.Repositories.FlightRepo|b7c5704a-9abb-4d88-878a-807ff95afe06: 6 (10/04/2023 17:17:55) 
+[2023-04-10 17:17:57.4634]|User|INFO|WebAirportServer.Repositories.FlightRepo|eb56bdef-9ff8-4aa4-a1eb-0468b4f8971e: 3 (10/04/2023 17:17:57) 
+[2023-04-10 17:17:59.4438]|User|INFO|WebAirportServer.Models.Flight|Flight number 0c22d68e-feee-4493-8495-41d5876e3cdd is created 
+[2023-04-10 17:17:59.4438]|User|INFO|WebAirportServer.Repositories.FlightRepo|0c22d68e-feee-4493-8495-41d5876e3cdd: 1 (10/04/2023 17:17:59) 
+[2023-04-10 17:18:01.5061]|User|INFO|WebAirportServer.Repositories.FlightRepo|a37a238f-25d9-493b-87fb-c8875f9a3bba: 5 (10/04/2023 17:18:01) 
+[2023-04-10 17:18:02.4567]|User|INFO|WebAirportServer.Repositories.FlightRepo|0c22d68e-feee-4493-8495-41d5876e3cdd: 2 (10/04/2023 17:18:02) 
+[2023-04-10 17:18:02.5658]|User|INFO|WebAirportServer.Repositories.FlightRepo|b7c5704a-9abb-4d88-878a-807ff95afe06: 8 (10/04/2023 17:18:02) 
+[2023-04-10 17:18:02.6108]|User|INFO|WebAirportServer.Repositories.FlightRepo|091d1959-81ff-4e3a-a1be-49dc903fe8ee: Departure from 4 
+[2023-04-10 17:18:03.4962]|User|INFO|WebAirportServer.Repositories.FlightRepo|eb56bdef-9ff8-4aa4-a1eb-0468b4f8971e: 4 (10/04/2023 17:18:03) 
+[2023-04-10 17:18:04.5742]|User|INFO|WebAirportServer.Repositories.FlightRepo|b7c5704a-9abb-4d88-878a-807ff95afe06: 4 (10/04/2023 17:18:04) 
+[2023-04-10 17:18:05.5212]|User|INFO|WebAirportServer.Repositories.FlightRepo|a37a238f-25d9-493b-87fb-c8875f9a3bba: 6 (10/04/2023 17:18:05) 
+[2023-04-10 17:18:07.4662]|User|INFO|WebAirportServer.Repositories.FlightRepo|0c22d68e-feee-4493-8495-41d5876e3cdd: 3 (10/04/2023 17:18:07) 
+[2023-04-10 17:18:09.4468]|User|INFO|WebAirportServer.Models.Flight|Flight number 2c1b504c-31fd-4df6-ae4b-b8a5b831bf0c is created 
+[2023-04-10 17:18:19.4388]|User|INFO|WebAirportServer.Models.Flight|Flight number 66a7300a-ae53-41b7-91d2-586fe0954306 is created 
+[2023-04-10 17:18:29.4410]|User|INFO|WebAirportServer.Models.Flight|Flight number aca20943-2ae4-44e5-9536-7672d313f51d is created 
+[2023-04-10 17:20:06.9907]|User|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7254 
+[2023-04-10 17:20:07.0158]|User|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5009 
+[2023-04-10 17:20:07.0158]|User|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+[2023-04-10 17:20:07.0158]|User|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+[2023-04-10 17:20:07.0158]|User|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\קורס סלע\FinalProject\WebAirportServer\WebAirportServer\WebAirportServer 
+[2023-04-10 17:20:16.3908]|User|INFO|WebAirportServer.Models.Flight|Flight number 43f146aa-8448-41c3-8de0-76d53a3f2cf2 is created 
+[2023-04-10 17:20:16.7218]|User|INFO|WebAirportServer.Repositories.FlightRepo|43f146aa-8448-41c3-8de0-76d53a3f2cf2: 1 (10/04/2023 17:20:16) 
+[2023-04-10 17:20:19.8064]|User|INFO|WebAirportServer.Repositories.FlightRepo|43f146aa-8448-41c3-8de0-76d53a3f2cf2: 2 (10/04/2023 17:20:19) 
+[2023-04-10 17:20:24.8396]|User|INFO|WebAirportServer.Repositories.FlightRepo|43f146aa-8448-41c3-8de0-76d53a3f2cf2: 3 (10/04/2023 17:20:24) 
+[2023-04-10 17:20:26.0544]|User|INFO|WebAirportServer.Models.Flight|Flight number 1366537d-21b2-4aba-8bb6-c78e535e6d97 is created 
+[2023-04-10 17:20:26.0620]|User|INFO|WebAirportServer.Repositories.FlightRepo|1366537d-21b2-4aba-8bb6-c78e535e6d97: 1 (10/04/2023 17:20:26) 
+[2023-04-10 17:20:29.0807]|User|INFO|WebAirportServer.Repositories.FlightRepo|1366537d-21b2-4aba-8bb6-c78e535e6d97: 2 (10/04/2023 17:20:29) 
+[2023-04-10 17:20:30.8597]|User|INFO|WebAirportServer.Repositories.FlightRepo|43f146aa-8448-41c3-8de0-76d53a3f2cf2: 4 (10/04/2023 17:20:30) 
+[2023-04-10 17:20:34.0951]|User|INFO|WebAirportServer.Repositories.FlightRepo|1366537d-21b2-4aba-8bb6-c78e535e6d97: 3 (10/04/2023 17:20:34) 
+[2023-04-10 17:20:36.0516]|User|INFO|WebAirportServer.Models.Flight|Flight number 7a559ef4-baa5-4519-986d-f27518108d33 is created 
+[2023-04-10 17:20:36.0516]|User|INFO|WebAirportServer.Repositories.FlightRepo|7a559ef4-baa5-4519-986d-f27518108d33: 1 (10/04/2023 17:20:36) 
+[2023-04-10 17:20:38.8832]|User|INFO|WebAirportServer.Repositories.FlightRepo|43f146aa-8448-41c3-8de0-76d53a3f2cf2: 5 (10/04/2023 17:20:38) 
+[2023-04-10 17:20:39.0708]|User|INFO|WebAirportServer.Repositories.FlightRepo|7a559ef4-baa5-4519-986d-f27518108d33: 2 (10/04/2023 17:20:39) 
+[2023-04-10 17:20:40.1234]|User|INFO|WebAirportServer.Repositories.FlightRepo|1366537d-21b2-4aba-8bb6-c78e535e6d97: 4 (10/04/2023 17:20:40) 
+[2023-04-10 17:20:42.9053]|User|INFO|WebAirportServer.Repositories.FlightRepo|43f146aa-8448-41c3-8de0-76d53a3f2cf2: 6 (10/04/2023 17:20:42) 
+[2023-04-10 17:20:44.0955]|User|INFO|WebAirportServer.Repositories.FlightRepo|7a559ef4-baa5-4519-986d-f27518108d33: 3 (10/04/2023 17:20:44) 
+[2023-04-10 17:20:46.0479]|User|INFO|WebAirportServer.Models.Flight|Flight number a489214c-63e9-495b-a336-f4f18b6a740c is created 
+[2023-04-10 17:20:46.0479]|User|INFO|WebAirportServer.Repositories.FlightRepo|a489214c-63e9-495b-a336-f4f18b6a740c: 1 (10/04/2023 17:20:46) 
+[2023-04-10 17:20:48.1354]|User|INFO|WebAirportServer.Repositories.FlightRepo|1366537d-21b2-4aba-8bb6-c78e535e6d97: 5 (10/04/2023 17:20:48) 
+[2023-04-10 17:20:49.0671]|User|INFO|WebAirportServer.Repositories.FlightRepo|a489214c-63e9-495b-a336-f4f18b6a740c: 2 (10/04/2023 17:20:49) 
+[2023-04-10 17:20:49.9321]|User|INFO|WebAirportServer.Repositories.FlightRepo|43f146aa-8448-41c3-8de0-76d53a3f2cf2: 8 (10/04/2023 17:20:49) 
+[2023-04-10 17:20:50.1160]|User|INFO|WebAirportServer.Repositories.FlightRepo|7a559ef4-baa5-4519-986d-f27518108d33: 4 (10/04/2023 17:20:50) 
+[2023-04-10 17:20:51.9405]|User|INFO|WebAirportServer.Repositories.FlightRepo|43f146aa-8448-41c3-8de0-76d53a3f2cf2: 4 (10/04/2023 17:20:51) 
+[2023-04-10 17:20:52.1452]|User|INFO|WebAirportServer.Repositories.FlightRepo|1366537d-21b2-4aba-8bb6-c78e535e6d97: 6 (10/04/2023 17:20:52) 
+[2023-04-10 17:20:54.0800]|User|INFO|WebAirportServer.Repositories.FlightRepo|a489214c-63e9-495b-a336-f4f18b6a740c: 3 (10/04/2023 17:20:54) 
+[2023-04-10 17:20:56.0499]|User|INFO|WebAirportServer.Models.Flight|Flight number 95553c74-dd36-4d94-aff9-ad507040e6a3 is created 
+[2023-04-10 17:20:56.0499]|User|INFO|WebAirportServer.Repositories.FlightRepo|95553c74-dd36-4d94-aff9-ad507040e6a3: 1 (10/04/2023 17:20:56) 
+[2023-04-10 17:20:58.1466]|User|INFO|WebAirportServer.Repositories.FlightRepo|7a559ef4-baa5-4519-986d-f27518108d33: 5 (10/04/2023 17:20:58) 
+[2023-04-10 17:20:59.0752]|User|INFO|WebAirportServer.Repositories.FlightRepo|95553c74-dd36-4d94-aff9-ad507040e6a3: 2 (10/04/2023 17:20:59) 
+[2023-04-10 17:20:59.1697]|User|INFO|WebAirportServer.Repositories.FlightRepo|1366537d-21b2-4aba-8bb6-c78e535e6d97: 8 (10/04/2023 17:20:59) 
+[2023-04-10 17:20:59.9502]|User|INFO|WebAirportServer.Repositories.FlightRepo|43f146aa-8448-41c3-8de0-76d53a3f2cf2: Departure from 4 
+[2023-04-10 17:21:00.0924]|User|INFO|WebAirportServer.Repositories.FlightRepo|a489214c-63e9-495b-a336-f4f18b6a740c: 4 (10/04/2023 17:21:00) 
+[2023-04-10 17:21:01.1829]|User|INFO|WebAirportServer.Repositories.FlightRepo|1366537d-21b2-4aba-8bb6-c78e535e6d97: 4 (10/04/2023 17:21:01) 
+[2023-04-10 17:21:02.1582]|User|INFO|WebAirportServer.Repositories.FlightRepo|7a559ef4-baa5-4519-986d-f27518108d33: 6 (10/04/2023 17:21:02) 
+[2023-04-10 17:21:04.0915]|User|INFO|WebAirportServer.Repositories.FlightRepo|95553c74-dd36-4d94-aff9-ad507040e6a3: 3 (10/04/2023 17:21:04) 
+[2023-04-10 17:21:06.0356]|User|INFO|WebAirportServer.Models.Flight|Flight number c982778d-7647-4d9b-bf93-1edc0c0826b3 is created 
+[2023-04-10 17:21:06.0356]|User|INFO|WebAirportServer.Repositories.FlightRepo|c982778d-7647-4d9b-bf93-1edc0c0826b3: 1 (10/04/2023 17:21:06) 
+[2023-04-10 17:21:08.1276]|User|INFO|WebAirportServer.Repositories.FlightRepo|a489214c-63e9-495b-a336-f4f18b6a740c: 5 (10/04/2023 17:21:08) 
+[2023-04-10 17:21:09.0627]|User|INFO|WebAirportServer.Repositories.FlightRepo|c982778d-7647-4d9b-bf93-1edc0c0826b3: 2 (10/04/2023 17:21:09) 
+[2023-04-10 17:21:09.1878]|User|INFO|WebAirportServer.Repositories.FlightRepo|7a559ef4-baa5-4519-986d-f27518108d33: 8 (10/04/2023 17:21:09) 
+[2023-04-10 17:21:09.1997]|User|INFO|WebAirportServer.Repositories.FlightRepo|1366537d-21b2-4aba-8bb6-c78e535e6d97: Departure from 4 
+[2023-04-10 17:21:10.1095]|User|INFO|WebAirportServer.Repositories.FlightRepo|95553c74-dd36-4d94-aff9-ad507040e6a3: 4 (10/04/2023 17:21:10) 
+[2023-04-10 17:21:11.2066]|User|INFO|WebAirportServer.Repositories.FlightRepo|7a559ef4-baa5-4519-986d-f27518108d33: 4 (10/04/2023 17:21:11) 
+[2023-04-10 17:21:12.1457]|User|INFO|WebAirportServer.Repositories.FlightRepo|a489214c-63e9-495b-a336-f4f18b6a740c: 6 (10/04/2023 17:21:12) 
+[2023-04-10 17:21:14.0796]|User|INFO|WebAirportServer.Repositories.FlightRepo|c982778d-7647-4d9b-bf93-1edc0c0826b3: 3 (10/04/2023 17:21:14) 
+[2023-04-10 17:21:16.0377]|User|INFO|WebAirportServer.Models.Flight|Flight number 7586c815-8e9a-47c5-b1be-06b157732772 is created 
+[2023-04-10 17:21:16.0377]|User|INFO|WebAirportServer.Repositories.FlightRepo|7586c815-8e9a-47c5-b1be-06b157732772: 1 (10/04/2023 17:21:16) 
+[2023-04-10 17:21:18.1250]|User|INFO|WebAirportServer.Repositories.FlightRepo|95553c74-dd36-4d94-aff9-ad507040e6a3: 5 (10/04/2023 17:21:18) 
+[2023-04-10 17:21:19.0569]|User|INFO|WebAirportServer.Repositories.FlightRepo|7586c815-8e9a-47c5-b1be-06b157732772: 2 (10/04/2023 17:21:19) 
+[2023-04-10 17:21:19.1654]|User|INFO|WebAirportServer.Repositories.FlightRepo|a489214c-63e9-495b-a336-f4f18b6a740c: 8 (10/04/2023 17:21:19) 
+[2023-04-10 17:21:19.2263]|User|INFO|WebAirportServer.Repositories.FlightRepo|7a559ef4-baa5-4519-986d-f27518108d33: Departure from 4 
+[2023-04-10 17:21:20.1055]|User|INFO|WebAirportServer.Repositories.FlightRepo|c982778d-7647-4d9b-bf93-1edc0c0826b3: 4 (10/04/2023 17:21:20) 
+[2023-04-10 17:21:21.1855]|User|INFO|WebAirportServer.Repositories.FlightRepo|a489214c-63e9-495b-a336-f4f18b6a740c: 4 (10/04/2023 17:21:21) 
+[2023-04-10 17:21:22.1437]|User|INFO|WebAirportServer.Repositories.FlightRepo|95553c74-dd36-4d94-aff9-ad507040e6a3: 6 (10/04/2023 17:21:22) 
+[2023-04-10 17:21:24.0798]|User|INFO|WebAirportServer.Repositories.FlightRepo|7586c815-8e9a-47c5-b1be-06b157732772: 3 (10/04/2023 17:21:24) 
+[2023-04-10 17:21:26.0468]|User|INFO|WebAirportServer.Models.Flight|Flight number 207a61a9-b981-4b88-8c48-370b7b825d30 is created 
+[2023-04-10 17:21:26.0468]|User|INFO|WebAirportServer.Repositories.FlightRepo|207a61a9-b981-4b88-8c48-370b7b825d30: 1 (10/04/2023 17:21:26) 
+[2023-04-10 17:21:28.1326]|User|INFO|WebAirportServer.Repositories.FlightRepo|c982778d-7647-4d9b-bf93-1edc0c0826b3: 5 (10/04/2023 17:21:28) 
+[2023-04-10 17:21:29.0609]|User|INFO|WebAirportServer.Repositories.FlightRepo|207a61a9-b981-4b88-8c48-370b7b825d30: 2 (10/04/2023 17:21:29) 
+[2023-04-10 17:21:29.1701]|User|INFO|WebAirportServer.Repositories.FlightRepo|95553c74-dd36-4d94-aff9-ad507040e6a3: 8 (10/04/2023 17:21:29) 
+[2023-04-10 17:21:29.2002]|User|INFO|WebAirportServer.Repositories.FlightRepo|a489214c-63e9-495b-a336-f4f18b6a740c: Departure from 4 
+[2023-04-10 17:21:30.0990]|User|INFO|WebAirportServer.Repositories.FlightRepo|7586c815-8e9a-47c5-b1be-06b157732772: 4 (10/04/2023 17:21:30) 
+[2023-04-10 17:21:31.1849]|User|INFO|WebAirportServer.Repositories.FlightRepo|95553c74-dd36-4d94-aff9-ad507040e6a3: 4 (10/04/2023 17:21:31) 
+[2023-04-10 17:21:32.1604]|User|INFO|WebAirportServer.Repositories.FlightRepo|c982778d-7647-4d9b-bf93-1edc0c0826b3: 6 (10/04/2023 17:21:32) 
+[2023-04-10 17:21:34.0879]|User|INFO|WebAirportServer.Repositories.FlightRepo|207a61a9-b981-4b88-8c48-370b7b825d30: 3 (10/04/2023 17:21:34) 
+[2023-04-10 17:21:36.0452]|User|INFO|WebAirportServer.Models.Flight|Flight number 07c2f832-5547-44c6-93ea-2d80a846aa4c is created 
+[2023-04-10 17:21:36.0452]|User|INFO|WebAirportServer.Repositories.FlightRepo|07c2f832-5547-44c6-93ea-2d80a846aa4c: 1 (10/04/2023 17:21:36) 
